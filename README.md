@@ -8,6 +8,10 @@ Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn V�
 
 ## Video hướng dẫn sử dụng bộ Anki HMU time
 
+<video width="320" controls>
+  <source src="huong_dan.mp4" type="video/mp4">
+</video>
+
 ## Nguồn tham khảo
 
 - [Anki Manual](https://docs.ankiweb.net/)
