@@ -16,6 +16,7 @@ Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn V�
 
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki)
+- [Hướng dẫn tạo deck mới cơ bản](create-new-deck)
 
 ## Hỗ trợ
 
