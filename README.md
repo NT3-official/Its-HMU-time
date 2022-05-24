@@ -4,7 +4,7 @@ Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn V�
 
 ## Hướng dẫn sử dụng Anki
 
-- Để biết cách cơ bản sử dụng Anki, hãy truy cập trang [Anki Manual](https://docs.ankiweb.net/) bao gồm hướng dẫn cài đặt Anki và các chức năng của Anki.
+Để biết cách cơ bản sử dụng Anki, hãy truy cập trang [Anki Manual](https://docs.ankiweb.net/) bao gồm hướng dẫn cài đặt Anki và các chức năng của Anki.
 
 ## Video hướng dẫn sử dụng bộ Anki HMU time
 
