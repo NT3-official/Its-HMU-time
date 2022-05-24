@@ -1,6 +1,6 @@
 # HMU time
 
-Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn Vũ Công Bảo Long.
+Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn Vũ Công Bảo Long và Phạm Thị Ngọc Hà.
 
 ## Hướng dẫn sử dụng Anki
 
@@ -16,11 +16,5 @@ Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn V�
 
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki)
-- [Hướng dẫn tạo deck mới cơ bản](create-new-deck)
+- [Hướng dẫn tạo deck mới cơ bản - Louis Nguyễn](create-new-deck.md)
 - [Chia sẻ kinh nghiệm tạo thẻ trắc nghiệm trong Anki - Nam Hàn Đặng Phương](Chia-se-kinh-nghiem-tao-the-trac-nghiem-trong-Anki_Nam-Han-Dang-Phuong.pdf)
-
-## Hỗ trợ
-
-- Nguyễn Vũ Công Bảo Long
-- Phạm Thị Ngọc Hà
-- Long Nhật Nguyễn

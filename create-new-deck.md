@@ -1,4 +1,4 @@
-# Hướng dẫn tạo deck mới cơ bản trên Anki
+# Hướng dẫn tạo deck mới cơ bản trên Anki - Louis Nguyễn
 
 ## Bước 1. Tạo deck mới
 
