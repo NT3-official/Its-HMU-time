@@ -8,13 +8,11 @@ Hướng dẫn sử dụng Anki và [bộ thẻ](HMU-time.apkg) từ Nguyễn V�
 
 ## Video hướng dẫn sử dụng bộ Anki HMU time
 
-<video width="100%" controls>
-  <source src="huong_dan.mp4" type="video/mp4">
-</video>
+[huong_dan.mp4](huong_dan.mp4 ':include :type=video controls width=100%')
 
 ## Nguồn tham khảo
 
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki)
-- [Hướng dẫn tạo deck mới cơ bản - Louis Nguyễn](create-new-deck.md)
+- [Hướng dẫn tạo deck mới cơ bản - Louis Nguyễn](new-deck.md)
 - [Chia sẻ kinh nghiệm tạo thẻ trắc nghiệm trong Anki - Nam Hàn Đặng Phương](Chia-se-kinh-nghiem-tao-the-trac-nghiem-trong-Anki_Nam-Han-Dang-Phuong.pdf)
